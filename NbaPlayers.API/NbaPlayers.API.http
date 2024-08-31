@@ -1,0 +1,6 @@
+@NbaPlayers.API_HostAddress = http://localhost:5077
+
+GET {{NbaPlayers.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
